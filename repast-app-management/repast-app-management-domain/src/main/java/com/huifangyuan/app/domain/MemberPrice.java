@@ -1,4 +1,4 @@
-package com.aaa.lee.app.domain;
+package com.huifangyuan.app.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
